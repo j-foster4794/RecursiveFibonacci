@@ -1,0 +1,14 @@
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.AssemblyInfoInputs.cache
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.AssemblyInfo.cs
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.csproj.CoreCompileInputs.cache
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\bin\Debug\net8.0\RecursiveFibonacci.exe
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\bin\Debug\net8.0\RecursiveFibonacci.deps.json
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\bin\Debug\net8.0\RecursiveFibonacci.runtimeconfig.json
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\bin\Debug\net8.0\RecursiveFibonacci.dll
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\bin\Debug\net8.0\RecursiveFibonacci.pdb
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.dll
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\obj\Debug\net8.0\refint\RecursiveFibonacci.dll
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.pdb
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\obj\Debug\net8.0\RecursiveFibonacci.genruntimeconfig.cache
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\RecursiveFibonacci\obj\Debug\net8.0\ref\RecursiveFibonacci.dll
